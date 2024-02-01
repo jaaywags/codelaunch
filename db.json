@@ -1,0 +1,753 @@
+{
+  "startups": [
+    {
+      "id": 1,
+      "name": "AnyShift",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "name": "BenyShift",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "name": "CenyShift",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "name": "DenyShift",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "name": "EnyShift",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "name": "FenyShift",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "eventStartup": [
+    {
+      "id": 1,
+      "startupId": 1,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "startupId": 2,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "startupId": 3,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "startupId": 4,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "startupId": 5,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "startupId": 6,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 7,
+      "startupId": 1,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 8,
+      "startupId": 2,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 9,
+      "startupId": 3,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 10,
+      "startupId": 4,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 11,
+      "startupId": 5,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 12,
+      "startupId": 6,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 13,
+      "startupId": 1,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 14,
+      "startupId": 2,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 15,
+      "startupId": 3,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 16,
+      "startupId": 4,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 17,
+      "startupId": 5,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 18,
+      "startupId": 6,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "pitches": [
+    {
+      "id": 1,
+      "startupId": 1,
+      "eventId": 1,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "startupId": 2,
+      "eventId": 1,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "startupId": 3,
+      "eventId": 1,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "startupId": 4,
+      "eventId": 1,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "startupId": 5,
+      "eventId": 1,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "startupId": 6,
+      "eventId": 1,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 7,
+      "startupId": 1,
+      "eventId": 2,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 8,
+      "startupId": 2,
+      "eventId": 2,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 9,
+      "startupId": 3,
+      "eventId": 2,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 10,
+      "startupId": 4,
+      "eventId": 2,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 11,
+      "startupId": 5,
+      "eventId": 2,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 12,
+      "startupId": 6,
+      "eventId": 2,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 13,
+      "startupId": 1,
+      "eventId": 7,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 14,
+      "startupId": 2,
+      "eventId": 8,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 15,
+      "startupId": 3,
+      "eventId": 9,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 16,
+      "startupId": 4,
+      "eventId": 10,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 17,
+      "startupId": 5,
+      "eventId": 11,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 18,
+      "startupId": 6,
+      "eventId": 12,
+      "pitchDateTime": "01022024T00:00:00",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "hackathonTeams": [
+    {
+      "id": 1,
+      "vendor": "Improving",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "vendor": "Honey Comb",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "vendor": "Blue People",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "vendor": "Contollo",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "vendor": "bjss",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "vendor": "Softeq",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "hackathonTeamAssignments": [
+    {
+      "id": 1,
+      "hackathonTeamId": 1,
+      "eventId": 1,
+      "startupId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "hackathonTeamId": 2,
+      "eventId": 1,
+      "startupId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 3,
+      "hackathonTeamId": 3,
+      "eventId": 1,
+      "startupId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 4,
+      "hackathonTeamId": 4,
+      "eventId": 1,
+      "startupId": 4,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 5,
+      "hackathonTeamId": 5,
+      "eventId": 1,
+      "startupId": 5,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 6,
+      "hackathonTeamId": 6,
+      "eventId": 1,
+      "startupId": 6,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 7,
+      "hackathonTeamId": 1,
+      "eventId": 1,
+      "startupId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 8,
+      "hackathonTeamId": 2,
+      "eventId": 1,
+      "startupId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 9,
+      "hackathonTeamId": 3,
+      "eventId": 1,
+      "startupId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 10,
+      "hackathonTeamId": 4,
+      "eventId": 1,
+      "startupId": 4,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 11,
+      "hackathonTeamId": 5,
+      "eventId": 1,
+      "startupId": 5,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 12,
+      "hackathonTeamId": 6,
+      "eventId": 1,
+      "startupId": 6,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 13,
+      "hackathonTeamId": 1,
+      "eventId": 1,
+      "startupId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 14,
+      "hackathonTeamId": 2,
+      "eventId": 1,
+      "startupId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 15,
+      "hackathonTeamId": 3,
+      "eventId": 1,
+      "startupId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 16,
+      "hackathonTeamId": 4,
+      "eventId": 1,
+      "startupId": 4,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 17,
+      "hackathonTeamId": 5,
+      "eventId": 1,
+      "startupId": 5,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }, 
+    {
+      "id": 18,
+      "hackathonTeamId": 6,
+      "eventId": 1,
+      "startupId": 6,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Code Launch Houston 2022",
+      "mainEventVenueId": 1,
+      "finalistRevealVenueId": 1,
+      "submissionDeadlineDateTime": "01012022T00:00:00",
+      "semiFinalistRevealDateTime": "01022022T00:00:00",
+      "finalistSelectionDateTime": "01032022T00:00:00",
+      "finalistRevealStartDateTime": "01042022T00:00:00",
+      "finalistRevealEndDateTime": "01052022T00:00:00",
+      "hackathonDateTime": "01062022T00:00:00",
+      "mainEventStartDateTime": "01072022T14:00:00",
+      "mainEventEndDateTime": "01072022T17:00:00",
+      "createdOnDateTime": "01012022T00:00:00",
+      "updatedOnDateTime": "01012022T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "name": "Code Launch Houston 2023",
+      "mainEventVenueId": 2,
+      "finalistRevealVenueId": 2,
+      "submissionDeadlineDateTime": "01012023T00:00:00",
+      "semiFinalistRevealDateTime": "01022023T00:00:00",
+      "finalistSelectionDateTime": "01032023T00:00:00",
+      "finalistRevealStartDateTime": "01042023T00:00:00",
+      "finalistRevealEndDateTime": "01052023T00:00:00",
+      "hackathonDateTime": "01062023T00:00:00",
+      "mainEventStartDateTime": "01072023T14:00:00",
+      "mainEventEndDateTime": "01072023T17:00:00",
+      "createdOnDateTime": "01012023T00:00:00",
+      "updatedOnDateTime": "01012023T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "name": "Code Launch Houston 2024",
+      "mainEventVenueId": 3,
+      "finalistRevealVenueId": 4,
+      "submissionDeadlineDateTime": "01012024T00:00:00",
+      "semiFinalistRevealDateTime": "01022024T00:00:00",
+      "finalistSelectionDateTime": "01032024T00:00:00",
+      "finalistRevealStartDateTime": "01042024T00:00:00",
+      "finalistRevealEndDateTime": "01052024T00:00:00",
+      "hackathonDateTime": "02062024T00:00:00",
+      "mainEventStartDateTime": "02292024T14:00:00",
+      "mainEventEndDateTime": "02292024T17:00:00",
+      "createdOnDateTime": "01012024T00:00:00",
+      "updatedOnDateTime": "01012024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "venues": [
+    {
+      "id": 1,
+      "name": "Ion",
+      "address": "123 First st, Houston, TX 77449",
+      "phoneNumber": "+1-555-555-0002",
+      "mainContactName": "Abe Smith",
+      "mainContactEmail": "abe.smith@ion.com",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "name": "The Cannon",
+      "address": "123 Second st, Houston, TX 77449",
+      "phoneNumber": "+1-555-555-0002",
+      "mainContactName": "Beth Smith",
+      "mainContactEmail": "beth.smith@ion.com",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "name": "Bayou Music Center",
+      "address": "123 Third st, Houston, TX 77449",
+      "phoneNumber": "+1-555-555-0003",
+      "mainContactName": "Charlie Smith",
+      "mainContactEmail": "charlie.smith@ion.com",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "name": "Toyota Center",
+      "address": "123 Fourth st, Houston, TX 77449",
+      "phoneNumber": "+1-555-555-0004",
+      "mainContactName": "Drake Smith",
+      "mainContactEmail": "drake.smith@ion.com",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "sponsors": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "contributionInUsd": "4",
+      "sponsorCategoryTypeId": 1,
+      "mainContactName": "Steve Jobs",
+      "mainContactEmail": "steve.jobs@apple.com",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "name": "Side Project Society",
+      "contributionInUsd": null,
+      "sponsorCategoryTypeId": 2,
+      "mainContactName": "Jordan Wagner",
+      "mainContactEmail": "jordan.wagner@sideprojectsociety.com",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "sponsorCategoryType": [
+    {
+      "id": 1,
+      "name": "Corporate Sponsor",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "name": "Community Sponsor",
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ],
+  "sponsorEvent": [
+    {
+      "id": 1,
+      "sponsorId": 1,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 2,
+      "sponsorId": 2,
+      "eventId": 1,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 3,
+      "sponsorId": 1,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 4,
+      "sponsorId": 2,
+      "eventId": 2,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 5,
+      "sponsorId": 1,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    },
+    {
+      "id": 6,
+      "sponsorId": 2,
+      "eventId": 3,
+      "createdOnDateTime": "01022024T00:00:00",
+      "updatedOnDateTime": "01022024T00:00:00",
+      "isDeleted": false
+    }
+  ]
+}
